@@ -1,3 +1,9 @@
+"""
+To find LinkedIn 2nd degree connections in Python, 
+you can use the LinkedIn API to access a user's connections and 
+then use a breadth-first search algorithm to find all 2nd degree connections
+"""
+
 # Import the LinkedIn API client
 import linkedin
 
